@@ -6,7 +6,7 @@ function About() {
       <div className="container-wrapper">
       <div className=" flex justify-between flex-col sm:flex-row gap-4">
         <div className="sm:w-1/2 w-full bg-[#770679] rounded-3xl p-5 mx-2">
-          <h1 className=" madimi-font text-2xl sm:text-[40px]">
+          <h1 className=" madimi-font text-2xl sm:text-[40px] lh-1_7">
             Imagine this: You’re cruising down the highway of life in your
             crypto Lambo, and then—BAM!—you hit a slick patch of oil. But guess
             what? It’s not a mess, it’s the Diddy Oil Token, and you’re riding

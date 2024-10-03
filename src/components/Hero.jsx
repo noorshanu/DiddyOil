@@ -10,7 +10,7 @@ function Hero() {
           </div>
 
           <div className=" w-full">
-            <h2 className=" madimi-font text-2xl sm:text-4xl text-center sm:text-end hidden sm:block">
+            <h2 className=" madimi-font text-2xl sm:text-4xl text-center sm:text-end hidden sm:block lh-1_6">
               Welcome to Diddy Oil Token, where we mix slick DeFi <br /> moves with the
               smoothness of an oil spill (just kidding— <br /> no spills here, only
               profits).This ain’t your average token <br />—it’s a blend of old-school

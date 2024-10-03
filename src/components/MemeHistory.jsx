@@ -2,7 +2,7 @@ import React from 'react'
 
 function MemeHistory() {
   return (
-    <div className='bg-hero'>
+    <div className='bg-hero2'>
         <div className=' container-wrapper py-12'>
 
             <h1 className='madimi-font sm:text-4xl text-2xl my-6 text-center'>
