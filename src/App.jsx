@@ -18,7 +18,7 @@ function App() {
           <img
             src="images/bgoil.png"
             alt=""
-            className=" absolute top-0 bottom-0 left-[20%] right-0"
+            className=" absolute top-0 bottom-0 left-0 sm:left-[20%] right-0"
           />
           <Hero />
         </div>
@@ -27,7 +27,7 @@ function App() {
 
           <div className=" relative">
 
-            <img src="images/about1.png" alt="" className=" absolute top-0 left-[10%]" />
+            <img src="images/about1.png" alt="" className=" absolute top-0 left-0 sm:left-[10%]" />
             <GasF />
             <div className="bg-hero h-16 sm:h-[150px]"></div>
 
