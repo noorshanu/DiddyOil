@@ -11,23 +11,23 @@ const Navbar = () => {
          <img src="images/hero.png" alt="" className=' h-[80px]' />   <img src="images/logo.png" alt="" />
         </div>
 
-        <div className=' flex items-center gap-8 pr-10'>
+        <div className=' flex items-center gap-6 sm:gap-8 pr-10'>
 
-            <a href="/" className=' flex gap-2 items-center mx-2'>
+            <a href="https://t.me/diddyoiltoken" className=' flex gap-2 items-center mx-2'>
             <img src="images/tele.png" alt="" />
             Telegram
             </a>
-            <a href="/" className=' flex gap-2 items-center mx-2'>
+            <a href="https://x.com/diddyoil_token" className=' flex gap-2 items-center mx-2'>
             <img src="images/tweet.png" alt="" />
             Twitter
             </a>
-            <a href="/" className=' flex gap-2 items-center'>
+            <a href="https://www.tiktok.com/@diddyoiltoken" className=' flex gap-2 items-center'>
             <img src="images/tiktok.png" alt="" />
             Tiktok
             </a>
-            <a href="/" className=' flex gap-2 items-center'>
-            <img src="images/discord.png" alt="" />
-            Discord
+            <a href="https://www.facebook.com/profile.php?id=61566452043926" className=' flex gap-2 items-center'>
+            <img src="images/facebook.png" alt="" className=' h-6 ' />
+           Facebook
             </a>
 
         </div>
